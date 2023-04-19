@@ -4,7 +4,7 @@
 
 ## What is the game?
 Objective is to have a successful date.
-***
+
 
 ## The game's pseudocode:
     Say that you're going on a date
