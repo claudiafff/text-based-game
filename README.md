@@ -1,7 +1,7 @@
 # text-based-game
-## **This is where I will write my pseudocode for my text based game**
+**This is where I will write my pseudocode for my text based game**
 
-## Objective is to have a successful date
+Objective is to have a successful date
 ***
 
 
