@@ -1,10 +1,12 @@
-# Have a successful date
-**This is where I will write my pseudocode for my text based game**
+# Successful Date Game
 
-Objective is to have a successful date
+**This file is where I will write my pseudocode for my text based game**
+
+## What is the game?
+Objective is to have a successful date.
 ***
 
-
+## The game's pseudocode:
     Say that you're going on a date
     Pick either john cena or pitbull
 
@@ -62,3 +64,6 @@ Objective is to have a successful date
 
         Else you choose anything else
             Okay cool let's go eat
+
+## Where can you play and run this game?
+Is yet to be released.
