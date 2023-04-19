@@ -3,7 +3,7 @@
 **This file is where I will write my pseudocode for my text based game**
 
 ## What is the game?
-Objective is to have a successful date.
+Objective is to have a successful date, based on the choices you make.
 
 
 ## The game's pseudocode:
@@ -67,3 +67,4 @@ Objective is to have a successful date.
 
 ## Where can you play and run this game?
 Is yet to be released.
+When it is, it will need Thonny python to run on.
